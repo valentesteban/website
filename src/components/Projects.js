@@ -39,6 +39,13 @@ class Projects extends React.Component {
         techStack: "Java, Gradle, Discord API.",
         link: "https://github.com/valentesteban/discord-bot",
         open: ""
+      },
+      "Website": {
+        desc:
+          "My personal website commited into GitHub for the view of everyone.",
+        techStack: "JavaScript, React, Yarn.",
+        link: "https://github.com/valentesteban/website",
+        open: ""
       }
     };
 
