@@ -1,5 +1,5 @@
 # website
-[![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE))
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 My personal web-page built on [React.js](https://reactjs.org/).
 
