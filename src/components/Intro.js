@@ -27,15 +27,15 @@ class Intro extends React.Component {
       <div id="intro">
         <Typist avgTypingDelay={120}>
           <span className="intro-title">
-            {"hi, "}
+            {"what's up? "}
             <span className="intro-name">{"esteban"}</span>
-            {" here."}
+            {" here!"}
           </span>
         </Typist>
         <FadeInSection>
           <div className="intro-subtitle">I create stuff sometimes.</div>
           <div className="intro-desc">
-            I'm a software engineer based in Rosario. I have great
+            I'm a FreeLancer based in Rosario. I have great
             interest in full-stack development, new technologies,
             and everything in between.
           </div>

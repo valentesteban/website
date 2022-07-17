@@ -1,11 +1,8 @@
 import React from "react";
 import "../styles/Projects.css";
 import FolderOpenRoundedIcon from "@material-ui/icons/FolderOpenRounded";
-import GitHubIcon from "@material-ui/icons/GitHub";
-import OpenInBrowserIcon from "@material-ui/icons/OpenInBrowser";
 import FadeInSection from "./FadeInSection";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
-import Carousel from "react-bootstrap/Carousel";
 import ExternalLinks from "./ExternalLinks";
 
 class Projects extends React.Component {
@@ -24,7 +21,6 @@ class Projects extends React.Component {
   }
 
   render() {
-    // not images haha
     const projects = {
       "Tea": {
         desc:
@@ -42,7 +38,7 @@ class Projects extends React.Component {
       },
       "Website": {
         desc:
-          "My personal website commited into GitHub for the view of everyone.",
+          "My personal website commited into GitHub for be seen by everyone.",
         techStack: "JavaScript, React, Yarn.",
         link: "https://github.com/valentesteban/website",
         open: ""

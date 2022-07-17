@@ -90,6 +90,14 @@ const JobList = () => {
         "Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry."
       ]
     },
+    "Koru Network": {
+      jobTitle: "Java Developer @",
+      duration: "APRIL 2020 - JUNE 2021",
+      desc: [
+        "This network was a really game changer for me because it helped me to understand a lot of things such as team workflow and big responsabilities.",
+        "I'm very proud to say that I collaborated and helped to build a big part of the Server/Network."
+      ]
+    },
     "Austral University": {
       jobTitle: "Student of Software Development @",
       duration: "APRIL 2023 - FUTURE",
