@@ -31,14 +31,21 @@ class Projects extends React.Component {
       },
       "Discord Bot": {
         desc:
-          "A Discord bot that helps you excel on your daily tasks through the respective Discord server that use it.",
-        techStack: "Java, Gradle, Discord API.",
-        link: "https://github.com/valentesteban/discord-bot",
+          "A basic but functional survival plugin based on 1.8.8 Minecraft version.",
+        techStack: "Java, Kotlin, Gradle.",
+        link: "https://github.com/valentesteban/survival",
+        open: ""
+      },
+      "Dancer Box": {
+        desc:
+          "A funny dancer box with a song that i like to practice the Front-end Stack a little bit more.",
+        techStack: "JavaScript, Html5, CSS3.",
+        link: "https://github.com/valentesteban/dancer-box",
         open: ""
       },
       "Website": {
         desc:
-          "My personal website commited into GitHub for be seen by everyone.",
+          "My personal website commited into GitHub to be seen by everyone.",
         techStack: "JavaScript, React, Yarn.",
         link: "https://github.com/valentesteban/website",
         open: ""
