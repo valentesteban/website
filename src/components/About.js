@@ -19,32 +19,27 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently on five year of <b>Secondary School</b> at
-        <a href="http://cefsancarlos.ddns.net/moodle/">
-          {" "}
-          San Franciscan School
-        </a>
-        . After graduation, I will be joining{" "}
-        <a href="https://www.austral.edu.ar/">Austral University</a> as a{" "}
-        <b>Software Development Engineer</b> while undertaking a part-time
+        I'm currently a <b>Programming Technician Student</b> at{" "}
+        <a href="https://www.austral.edu.ar/">Austral University</a> as a{" "}while undertaking a part-time
         <b> Chef Career</b> at{" "}
         <a href="https://www.gatodumas.com.ar/">Gato Dumas</a>.
       </p>
     );
     const two = (
       <p>
-        Outside of work and school, I'm interested in following the culture of
+        Outside of work and college, I'm interested in following the culture of
         food. I also like to enjoy a good movie o serie.
       </p>
     );
     const desc_items = [one, two];
 
     const tech_stack = [
-      "Javascript ES6+",
-      "React.js",
+      "JavaScript",
       "Java",
+      "HTML & CSS",
+      "Python",
       "Node.js",
-      "HTML & CSS"
+      "React.js"
     ];
 
     const tech_items = tech_stack.map(stack => <li>{stack}</li>);
@@ -71,7 +66,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img src={"/assets/me2.jpg"} />
+              <img src={"/assets/me.jpg"} />
             </div>
           </div>
         </FadeInSection>
