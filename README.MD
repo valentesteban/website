@@ -12,8 +12,8 @@ git clone https://github.com/valentesteban/website
 cd website
 
 # Install dependencies
-yarn install
+npm install
 
 # Start development server
-yarn run start
+npm start
 ```
