@@ -3,7 +3,7 @@
 
 My personal website built on [React.js](https://reactjs.org/) | You can check it out [here](https://valentesteban.me).
 
-**DISCLAIMER**: I'm not a Front-End Developer, if you find some things to improve or fix you're free make a pull request.
+**DISCLAIMER**: I'm not a Front-End Developer yet, if you find some things to improve or fix you're free make a pull request.
 
 ## How to run
 ```shell
